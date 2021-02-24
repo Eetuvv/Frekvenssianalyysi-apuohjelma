@@ -3,7 +3,7 @@ viestissä ja helpottaa viestin murtamista.
 Ohjelma laskee myös ääkköset.
 
 <strong>Edit: 24.2.2021</strong>
-Päivitetty projekti maveniin ja lisätty pom.xml ja dependency javafx varten.
+Päivitetty projekti maveniin ja lisätty pom.xml ja dependency javafx varten. Lisätty myös ohjeet ohjelman suorittamiseen.
 
 # Ohjelman suoritus
 Ohjelman voi suorittaa Windowsilla seuraavasti: 
